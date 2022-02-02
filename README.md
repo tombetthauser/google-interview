@@ -12,7 +12,7 @@ Given an array of integers and a value, determine if there are any two integers 
 
 
 ```
-Tricky-Trick: Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. Boom 💥
+***Tricky-Trick:*** Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. Boom 💥
 ```
 
 ### 2. Move Zeros to the Left
@@ -33,7 +33,7 @@ Tricky-Trick: Something with pointers? 👉❓👈
 You are given the head of a linked list and a key. You have to delete the node that contains this given key.
 
 ```
-Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f up? 🐜🐜🐜
+Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f up? 🐜 🐜 🐜
 ```
 
 
