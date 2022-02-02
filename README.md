@@ -1,4 +1,5 @@
 ![computa](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.reactiongifs.com%2Fr%2Fmnytu.gif&f=1&nofb=1)
+<!-- ![boomsters](https://viralviralvideos.com/wp-content/uploads/meme/2014/03/GIF-That-awkward-moment-when-you-use-Google-to-search-for-Google.gif) -->
 
 # Shmoogle Interview
 
