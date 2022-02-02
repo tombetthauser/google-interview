@@ -32,6 +32,10 @@ Tricky-Trick: Something with pointers? 👉❓👈
 
 You are given the head of a linked list and a key. You have to delete the node that contains this given key.
 
+```
+Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f up? 🐜🐜🐜
+```
+
 
 ### 4. Copy Linked List with Arbitrary Pointer
 
