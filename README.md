@@ -1,3 +1,5 @@
+![computa](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.reactiongifs.com%2Fr%2Fmnytu.gif&f=1&nofb=1)
+
 # Shmoogle Interview
 
 A non-insane starter list maybe...
