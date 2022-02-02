@@ -1,6 +1,6 @@
-# Google Shminterview
+# Shmoogle Interview
 
-## A Nice Approachable Starter List Maybe:
+## Non-Insane Starter List Maybe:
 
 ### Arrays
 
