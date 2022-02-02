@@ -1,6 +1,6 @@
 # Shmoogle Interview
 
-## Non-Insane Starter List Maybe:
+a non-insane starter list maybe...
 
 ---
 
