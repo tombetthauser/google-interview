@@ -29,6 +29,8 @@ Move all zeros to the left of an array while maintaining its order.
 Tricky-Trick: Something with pointers? 👉❓👈
 ```
 
+[leetcode](https://leetcode.com/problems/move-zeroes/) | [youtubes](https://www.youtube.com/watch?v=aayNRwUN3Do)
+
 ---
 
 ## Linked Lists
