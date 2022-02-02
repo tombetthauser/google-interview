@@ -110,7 +110,7 @@ Given a string find all non-single letter substrings that are palindromes.
 Tricky-Trick: Totally forgot, maybe pointers?
 ```
 
-[leetcode](https://leetcode.com/problems/palindromic-substrings/) | (youtubes)[https://www.youtube.com/watch?v=4RACzI5-du8]
+[leetcode](https://leetcode.com/problems/palindromic-substrings/) | [youtubes](https://www.youtube.com/watch?v=4RACzI5-du8)
 
 ---
 
@@ -125,7 +125,7 @@ Given an array, find the contiguous subarray with the largest sum.
 Tricky-Trick: Something with pointers and a running sum... Kadanes algorithm?
 ```
 
-[leetcode](https://leetcode.com/problems/maximum-subarray/) | (youtubes)[https://www.youtube.com/watch?v=5WZl3MMT0Eg]
+[leetcode](https://leetcode.com/problems/maximum-subarray/) | [youtubes](https://www.youtube.com/watch?v=5WZl3MMT0Eg)
 
 ---
 
@@ -140,7 +140,7 @@ Given an input string, determine if it makes a valid number or not. For simplici
 Tricky-Trick:
 ```
 
-[leetcode](https://leetcode.com/problems/valid-number/) | (youtubes)[https://www.youtube.com/watch?v=-6H2UFV68RI]
+[leetcode](https://leetcode.com/problems/valid-number/) | [youtubes](https://www.youtube.com/watch?v=-6H2UFV68RI)
 
 ---
 
@@ -155,7 +155,7 @@ Print all braces combinations for a given value 'N' so that they are balanced.
 Tricky-Trick: Make a shared return array and count integers for opening and closing prenetheses count then recurse down to a base case related to the counts and n. Kinda remember it but might be missing something?
 ```
 
-[leetcode](https://leetcode.com/problems/generate-parentheses/) | (youtubes)[https://www.youtube.com/watch?v=s9fokUqJ76A]
+[leetcode](https://leetcode.com/problems/generate-parentheses/) | [youtubes](https://www.youtube.com/watch?v=s9fokUqJ76A)
 
 ---
 
@@ -172,7 +172,7 @@ Tricky-Trick:
 
 [leetcode (multiples)](https://leetcode.com/tag/minimum-spanning-tree/) 
 
-[leetcode](https://www.youtube.com/watch?v=f7JOBJIC-NA)| (youtubes)[https://www.youtube.com/watch?v=f7JOBJIC-NA]
+[leetcode](https://www.youtube.com/watch?v=f7JOBJIC-NA)| [youtubes](https://www.youtube.com/watch?v=f7JOBJIC-NA)
 
 ---
 
@@ -187,7 +187,7 @@ Least Recently Used (LRU) is a common caching strategy. It defines the policy to
 Tricky-Trick: Use a linked list representing a queue and a hashmap for looking up nodes.
 ```
 
-[leetcode](https://leetcode.com/problems/lru-cache/) | (youtubes)[https://www.youtube.com/watch?v=7ABFKPK2hD4]
+[leetcode](https://leetcode.com/problems/lru-cache/) | [youtubes](https://www.youtube.com/watch?v=7ABFKPK2hD4)
 
 ---
 
@@ -202,7 +202,7 @@ Given a sorted array of integers, return the low and high index of the given key
 Tricky-Trick:
 ```
 
-[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | (youtubes)[https://www.youtube.com/watch?v=4sQL7R5ySUU]
+[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [youtubes](https://www.youtube.com/watch?v=4sQL7R5ySUU)
 
 
 ### 15. Merge Overlapping Intervals 🧡
@@ -214,4 +214,4 @@ You are given an array (list) of interval pairs as input where each interval has
 Tricky-Trick:
 ```
 
-[leetcode](https://leetcode.com/problems/merge-intervals/) | (youtubes)[https://www.youtube.com/watch?v=44H3cEC2fFM]
+[leetcode](https://leetcode.com/problems/merge-intervals/) | [youtubes](https://www.youtube.com/watch?v=44H3cEC2fFM)
