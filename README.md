@@ -17,6 +17,10 @@ Given an array of integers and a value, determine if there are any two integers 
 Tricky-Trick: Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. 💥
 ```
 
+(leetcode)[https://leetcode.com/problems/two-sum/]
+(youtubes)[https://www.youtube.com/watch?v=KLlXCFG5TnA]
+
+
 ### 2. Move Zeros to the Left
 
 Move all zeros to the left of an array while maintaining its order.
