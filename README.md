@@ -40,8 +40,10 @@ Tricky-Trick: Something with pointers? 👉❓👈
 You are given the head of a linked list and a key. You have to delete the node that contains this given key.
 
 ```
-Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f up?
+Tricky-Trick: No trick maybe? Find that puppy, wipe its memory and make its neighbors hook the f up?
 ```
+
+[leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [youtube (related not exact problem)](https://www.youtube.com/watch?v=XVuQxVej6y8)
 
 
 ### 4. Copy Linked List with Arbitrary Pointer
