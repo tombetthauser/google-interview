@@ -128,7 +128,7 @@ Print all braces combinations for a given value 'N' so that they are balanced.
 
 
 ```
-Tricky-Trick:
+Tricky-Trick: Make a shared return array and count integers for opening and closing prenetheses count then recurse down to a base case related to the counts and n. Kinda remember it but might be missing something?
 ```
 
 ---
@@ -154,7 +154,7 @@ Least Recently Used (LRU) is a common caching strategy. It defines the policy to
 
 
 ```
-Tricky-Trick:
+Tricky-Trick: Use a linked list representing a queue and a hashmap for looking up nodes.
 ```
 
 ---
