@@ -57,6 +57,8 @@ Your job is to write code to make a deep copy of the given linked list. Here, de
 Tricky-Trick: Make a crazy hashmap where the keys are the original nodes and the values are new copied versions of the nodes. Then iterate back through and something something...
 ```
 
+[leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [youtubes](https://www.youtube.com/watch?v=5Y2EiZST97Y)
+
 ---
 
 ## Trees
