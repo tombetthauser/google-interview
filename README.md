@@ -71,6 +71,8 @@ Given the root node of a binary tree, swap the 'left' and 'right' children for e
 Tricky-Trick:
 ```
 
+[leetcode](https://leetcode.com/problems/invert-binary-tree/) | [youtubes](https://www.youtube.com/watch?v=OnSn2XEQ4MY)
+
 
 ### 6. Check if Two Binary Trees are Identical
 
@@ -80,6 +82,8 @@ Given the roots of two binary trees, determine if these trees are identical or n
 ```
 Tricky-Trick:
 ```
+
+[leetcode](https://leetcode.com/problems/same-tree/) | [youtubes](https://www.youtube.com/watch?v=vRbbcKXCxOw)
 
 ---
 
