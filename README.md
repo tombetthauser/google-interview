@@ -11,9 +11,18 @@ A non-insane starter list maybe...
 Given an array of integers and a value, determine if there are any two integers in the array whose sum is equal to the given value.
 
 
+```
+Tricky-Trick: Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. Boom 💥
+```
+
 ### 2. Move Zeros to the Left
 
 Move all zeros to the left of an array while maintaining its order.
+
+
+```
+Tricky-Trick: Something with pointers? 👉?👈
+```
 
 ---
 
