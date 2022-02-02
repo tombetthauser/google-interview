@@ -12,7 +12,7 @@ Given an array of integers and a value, determine if there are any two integers 
 
 
 ```
-***Tricky-Trick:*** Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. Boom 💥
+Tricky-Trick: Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. 💥
 ```
 
 ### 2. Move Zeros to the Left
@@ -42,6 +42,10 @@ Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f
 You are given a linked list where the node has two pointers. The first is the regular ‘next’ pointer. The second pointer is called ‘arbitrary_pointer’ and it can point to any node in the linked list.
  
 Your job is to write code to make a deep copy of the given linked list. Here, deep copy means that any operations on the original list (inserting, modifying and removing) should not affect the copied list.
+
+```
+Tricky-Trick: Make a crazy hashmap where the keys are the original nodes and the values are new copied versions of the nodes. Then iterate back through and something something...
+```
 
 ---
 
