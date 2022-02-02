@@ -2,19 +2,19 @@
 
 ## Non-Insane Starter List Maybe:
 
-### Arrays
+## Arrays
 
-#### Sum of Two Values
+### Sum of Two Values
 
 Given an array of integers and a value, determine if there are any two integers in the array whose sum is equal to the given value.
 
 
-#### Move zeros to the left
+### Move zeros to the left
 
 Move all zeros to the left of an array while maintaining its order.
 
 
-### Linked Lists
+## Linked Lists
 
 #### Delete Node with Given Key
 
