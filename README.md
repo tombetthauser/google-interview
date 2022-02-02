@@ -55,10 +55,19 @@ Tricky-Trick: Make a crazy hashmap where the keys are the original nodes and the
 
 Given the root node of a binary tree, swap the 'left' and 'right' children for each node. 
 
+```
+Tricky-Trick: No idea (yet) ❓
+```
+
 
 ### 6. Check if Two Binary Trees are Identical
 
 Given the roots of two binary trees, determine if these trees are identical or not.
+
+
+```
+Tricky-Trick: No idea (yet) ❓
+```
 
 ---
 
@@ -69,9 +78,19 @@ Given the roots of two binary trees, determine if these trees are identical or n
 Given a dictionary of words and an input string tell whether the input string can be completely segmented into dictionary words.
 
 
+```
+Tricky-Trick: No idea (yet) ❓
+```
+
+
 ### 8. Find all Palindrome Substrings
 
 Given a string find all non-single letter substrings that are palindromes.
+
+
+```
+Tricky-Trick: Totally forgot, maybe pointers?
+```
 
 ---
 
@@ -80,6 +99,11 @@ Given a string find all non-single letter substrings that are palindromes.
 ### 9. Largest Sum Subarray
 
 Given an array, find the contiguous subarray with the largest sum.
+
+
+```
+Tricky-Trick: Something with pointers and a running sum... Kadanes algorithm?
+```
 
 ---
 
