@@ -33,7 +33,7 @@ Tricky-Trick: Something with pointers? 👉❓👈
 You are given the head of a linked list and a key. You have to delete the node that contains this given key.
 
 ```
-Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f up? 🐜 🐜 🐜
+Tricky-Trick: Find that puppy, wipe its memory and make its neighbors hook the f up?
 ```
 
 
@@ -56,7 +56,7 @@ Tricky-Trick: Make a crazy hashmap where the keys are the original nodes and the
 Given the root node of a binary tree, swap the 'left' and 'right' children for each node. 
 
 ```
-Tricky-Trick: No idea (yet) ❓
+Tricky-Trick:
 ```
 
 
@@ -66,7 +66,7 @@ Given the roots of two binary trees, determine if these trees are identical or n
 
 
 ```
-Tricky-Trick: No idea (yet) ❓
+Tricky-Trick:
 ```
 
 ---
@@ -79,7 +79,7 @@ Given a dictionary of words and an input string tell whether the input string ca
 
 
 ```
-Tricky-Trick: No idea (yet) ❓
+Tricky-Trick:
 ```
 
 
@@ -113,6 +113,11 @@ Tricky-Trick: Something with pointers and a running sum... Kadanes algorithm?
 
 Given an input string, determine if it makes a valid number or not. For simplicity, assume that white spaces are not present in the input.
 
+
+```
+Tricky-Trick:
+```
+
 ---
 
 ## Backtracking
@@ -120,6 +125,11 @@ Given an input string, determine if it makes a valid number or not. For simplici
 ### 11. Print balanced brace combinations
 
 Print all braces combinations for a given value 'N' so that they are balanced.
+
+
+```
+Tricky-Trick:
+```
 
 ---
 
@@ -129,6 +139,11 @@ Print all braces combinations for a given value 'N' so that they are balanced.
 
 Find the minimum spanning tree of a connected, undirected graph with weighted edges.
 
+
+```
+Tricky-Trick:
+```
+
 ---
 
 ## Design
@@ -136,6 +151,11 @@ Find the minimum spanning tree of a connected, undirected graph with weighted ed
 ### 13. Implement a LRU Cache
 
 Least Recently Used (LRU) is a common caching strategy. It defines the policy to evict elements from the cache to make room for new elements when the cache is full, meaning it discards the least recently used items first.
+
+
+```
+Tricky-Trick:
+```
 
 ---
 
@@ -146,6 +166,16 @@ Least Recently Used (LRU) is a common caching strategy. It defines the policy to
 Given a sorted array of integers, return the low and high index of the given key. Return -1 if not found. The array length can be in the millions with many duplicates.
 
 
+```
+Tricky-Trick:
+```
+
+
 ### 15. Merge Overlapping Intervals
 
 You are given an array (list) of interval pairs as input where each interval has a start and end timestamp. The input array is sorted by starting timestamps. You are required to merge overlapping intervals and return output array (list).
+
+
+```
+Tricky-Trick:
+```
