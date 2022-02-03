@@ -45,9 +45,13 @@ If zeros to beginning make left and right pointers meet in the middle.
 ### 3. Delete Node with Given Key 💚
 
 You are given the head of a linked list and a key. You have to delete the node that contains this given key.
+Harder version, you aren't given the head but just the node. Sit on that one.
 
 ```
-Tricky-Trick: No trick maybe? Find that puppy, wipe its memory and make its neighbors hook the f up?
+Tricky-Trick:
+No trick if you're given the head and a target val.
+If you're just given the node you basically turn the node into it's neighbor.
+Also disconnect it's neighbor from the linked list just in case.
 ```
 
 [leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [youtube (related not exact problem)](https://www.youtube.com/watch?v=XVuQxVej6y8)
