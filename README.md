@@ -15,7 +15,10 @@ Given an array of integers and a value, determine if there are any two integers 
 
 
 ```
-Tricky-Trick: Use a hashmap to log the complements of each number that represents the other number you're looking for that would let you make the target sum. 💥
+Tricky-Trick: 
+Use a hashmap to log the complements of each number.
+Complements represent the other number you're looking for that to make target sum.
+When you find one your looking for you're done!
 ```
 
 [leetcode](https://leetcode.com/problems/two-sum/) | [youtubes](https://www.youtube.com/watch?v=KLlXCFG5TnA)
@@ -27,7 +30,10 @@ Move all zeros to the left of an array while maintaining its order.
 
 
 ```
-Tricky-Trick: Something with pointers? 👉❓👈
+Tricky-Trick: 
+Depends on zeros to end or begining. Either way use pointers. 
+If zeros to end, use a left pointer and iterate the right normally. 
+If zeros to beginning make left and right pointers meet in the middle.
 ```
 
 [leetcode](https://leetcode.com/problems/move-zeroes/) | [youtubes](https://www.youtube.com/watch?v=aayNRwUN3Do)
