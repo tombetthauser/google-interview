@@ -211,7 +211,7 @@ You are given an array (list) of interval pairs as input where each interval has
 
 
 ```
-Tricky-Trick:
+Tricky-Trick: Sort it like a pleb and make a new merged array to push into.
 ```
 
 [leetcode](https://leetcode.com/problems/merge-intervals/) | [youtubes](https://www.youtube.com/watch?v=44H3cEC2fFM)
