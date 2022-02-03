@@ -64,7 +64,11 @@ You are given a linked list where the node has two pointers. The first is the re
 Your job is to write code to make a deep copy of the given linked list. Here, deep copy means that any operations on the original list (inserting, modifying and removing) should not affect the copied list.
 
 ```
-Tricky-Trick: Make a crazy hashmap where the keys are the original nodes and the values are new copied versions of the nodes. Then iterate back through and something something...
+Tricky-Trick: 
+Make a crazy hashmap where the keys are the original nodes and the values are new copied versions of the nodes.
+Then iterate back through and assign all pointers of node duplicates to their respective duplicates.
+Dont forget to cover keying errors if pointers point to None.
+Also don't forget input edge case of the head being None.
 ```
 
 [leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [youtubes](https://www.youtube.com/watch?v=5Y2EiZST97Y)
