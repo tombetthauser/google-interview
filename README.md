@@ -83,6 +83,8 @@ Given the root node of a binary tree, swap the 'left' and 'right' children for e
 
 ```
 Tricky-Trick:
+Recursion.
+The rest shouldn't be tricky.
 ```
 
 [leetcode](https://leetcode.com/problems/invert-binary-tree/) | [youtubes](https://www.youtube.com/watch?v=OnSn2XEQ4MY)
