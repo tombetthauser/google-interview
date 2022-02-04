@@ -96,7 +96,7 @@ Given the roots of two binary trees, determine if these trees are identical or n
 
 
 ```
-Tricky-Trick:
+Tricky-Trick: Make sure to keep track of your p's and q's. Recursion. And don't forget the elvis operator that isn't actually an elvis operator. Spicy!
 ```
 
 [leetcode](https://leetcode.com/problems/same-tree/) | [youtubes](https://www.youtube.com/watch?v=vRbbcKXCxOw)
