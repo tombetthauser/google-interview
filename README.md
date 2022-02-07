@@ -3,6 +3,7 @@
 <!-- ![hackathon](https://i.giphy.com/media/HwOmxUKFFNEwU/giphy.webp) -->
 ![](http://s3.amazonaws.com/images.seroundtable.com/google-my-business-photos-animated-1570448884.gif)
 <!-- ![](https://i.giphy.com/media/j0vSKwKrlJiKwjfH7Z/giphy.webp) -->
+<!-- ![](https://i.giphy.com/media/yR4xZagT71AAM/giphy.webp) -->
 
 # The Google Interview
 
