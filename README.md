@@ -1,9 +1,12 @@
-![computa](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.reactiongifs.com%2Fr%2Fmnytu.gif&f=1&nofb=1)
+<!-- ![computa](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.reactiongifs.com%2Fr%2Fmnytu.gif&f=1&nofb=1) -->
 <!-- ![boomsters](https://viralviralvideos.com/wp-content/uploads/meme/2014/03/GIF-That-awkward-moment-when-you-use-Google-to-search-for-Google.gif) -->
+![hackathon](https://i.giphy.com/media/HwOmxUKFFNEwU/giphy.webp)
 
-# Shmoogle Interview
+# Google Technical Interview Questions
 
-A non-insane starter list maybe...
+You don't have to be preparing for a FAANG interview to benefit from studying data structures and algorithms as if you were. Because of their size and popularity FAANG interview questions are extremely well documented and in many cases are intended to be public knowledge. Because of this many other companies model their interview questions on those used by FAANG companies. And as is the case with most companies, the technical questions used by FAANG companies can be found for the most part on sites like Leetcode. 
+
+The following list is a starter list for applicants preparing for Google interviews and can act as a good starter list for general technical interview preparation. Listed beneath the prompt description are hints / reminders for an optimal solution that are in many cases difficult or nearly impossible to discover within a reasonable time limit, beneath these are links to the problem on leetcode and an external youtube walkthrough in Python.
 
 ---
 
