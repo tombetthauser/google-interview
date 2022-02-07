@@ -109,7 +109,7 @@ Given the roots of two binary trees, determine if these trees are identical or n
 
 
 ```
-Tricky-Trick: Make sure to keep track of your p's and q's. Recursion. And don't forget the elvis operator that isn't actually an elvis operator. Spicy!
+Hint: Make sure to keep track of your p's and q's. Recursion. And don't forget the elvis operator that isn't actually an elvis operator. Spicy!
 ```
 
 [leetcode](https://leetcode.com/problems/same-tree/) | [youtubes](https://www.youtube.com/watch?v=vRbbcKXCxOw)
@@ -148,12 +148,13 @@ Hint: ???
 
 ---
 
-## Dynamic Programming
+### Largest Sum Subarray
 
-### 9. Largest Sum Subarray 💚
+```Topic: Dynamic Programming | Leetcode: Easy 💚```
 
 Given an array, find the contiguous subarray with the largest sum.
 
+[leetcode](https://leetcode.com/problems/maximum-subarray/) | [youtubes](https://www.youtube.com/watch?v=5WZl3MMT0Eg)
 
 <!--
 ```
@@ -161,23 +162,22 @@ Hint: ???
 ```
 -->
 
-[leetcode](https://leetcode.com/problems/maximum-subarray/) | [youtubes](https://www.youtube.com/watch?v=5WZl3MMT0Eg)
 
 ---
 
-## Math and Stats
+### Determine if the Number is Valid
 
-### 10. Determine if the Number is Valid 💔
+```Topic: Dynamic Programming | Leetcode: Hard 💔```
 
 Given an input string, determine if it makes a valid number or not. For simplicity, assume that white spaces are not present in the input.
+
+[leetcode](https://leetcode.com/problems/valid-number/) | [youtubes](https://www.youtube.com/watch?v=-6H2UFV68RI)
 
 <!--
 ```
 Hint: ???
 ```
 -->
-
-[leetcode](https://leetcode.com/problems/valid-number/) | [youtubes](https://www.youtube.com/watch?v=-6H2UFV68RI)
 
 ---
 
