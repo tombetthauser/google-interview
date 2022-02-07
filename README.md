@@ -22,7 +22,7 @@ Remember, in the world of Leetcode, sometimes "Easy" isn't easy and "Hard" isn't
 
 Given an array of integers and a value, determine if there are any two integers in the array whose sum is equal to the given value.
 
-[leetcode](https://leetcode.com/problems/two-sum/) | [youtubes](https://www.youtube.com/watch?v=KLlXCFG5TnA)
+[leetcode](https://leetcode.com/problems/two-sum/) | [youtube](https://www.youtube.com/watch?v=KLlXCFG5TnA)
 
 ```
 Hint: Use a hashmap to log the complements of each number.
@@ -76,7 +76,7 @@ You are given a linked list where the node has two pointers. The first is the re
  
 Your job is to write code to make a deep copy of the given linked list. Here, deep copy means that any operations on the original list (inserting, modifying and removing) should not affect the copied list.
 
-[leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [youtubes](https://www.youtube.com/watch?v=5Y2EiZST97Y)
+[leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [youtube](https://www.youtube.com/watch?v=5Y2EiZST97Y)
 
 ```
 Hint: Make a hashmap where the keys and values are node instances.
@@ -94,7 +94,7 @@ Also don't forget input edge case of the head being None. -->
 
 Given the root node of a binary tree, swap the 'left' and 'right' children for each node. 
 
-[leetcode](https://leetcode.com/problems/invert-binary-tree/) | [youtubes](https://www.youtube.com/watch?v=OnSn2XEQ4MY)
+[leetcode](https://leetcode.com/problems/invert-binary-tree/) | [youtube](https://www.youtube.com/watch?v=OnSn2XEQ4MY)
 
 ```
 Hint: Recursion
@@ -113,7 +113,7 @@ Given the roots of two binary trees, determine if these trees are identical or n
 Hint: Make sure to keep track of your p's and q's. Recursion. And don't forget the elvis operator that isn't actually an elvis operator. Spicy!
 ```
 
-[leetcode](https://leetcode.com/problems/same-tree/) | [youtubes](https://www.youtube.com/watch?v=vRbbcKXCxOw)
+[leetcode](https://leetcode.com/problems/same-tree/) | [youtube](https://www.youtube.com/watch?v=vRbbcKXCxOw)
 
 ---
 
@@ -121,7 +121,7 @@ Hint: Make sure to keep track of your p's and q's. Recursion. And don't forget t
 
 ```Topic: Strings | Leetcode: Medium 🧡```
 
-[leetcode](https://leetcode.com/problems/word-break/) | [youtubes](https://www.youtube.com/watch?v=Sx9NNgInc3A)
+[leetcode](https://leetcode.com/problems/word-break/) | [youtube](https://www.youtube.com/watch?v=Sx9NNgInc3A)
 
 Given a dictionary of words and an input string tell whether the input string can be completely segmented into dictionary words.
 
@@ -139,7 +139,7 @@ Hint: ???
 
 Given a string find all non-single letter substrings that are palindromes.
 
-[leetcode](https://leetcode.com/problems/palindromic-substrings/) | [youtubes](https://www.youtube.com/watch?v=4RACzI5-du8)
+[leetcode](https://leetcode.com/problems/palindromic-substrings/) | [youtube](https://www.youtube.com/watch?v=4RACzI5-du8)
 
 <!--
 ```
@@ -156,7 +156,7 @@ Hint: ???
 
 Given an array, find the contiguous subarray with the largest sum.
 
-[leetcode](https://leetcode.com/problems/maximum-subarray/) | [youtubes](https://www.youtube.com/watch?v=5WZl3MMT0Eg)
+[leetcode](https://leetcode.com/problems/maximum-subarray/) | [youtube](https://www.youtube.com/watch?v=5WZl3MMT0Eg)
 
 <!--
 ```
@@ -172,7 +172,7 @@ Hint: ???
 
 Given an input string, determine if it makes a valid number or not. For simplicity, assume that white spaces are not present in the input.
 
-[leetcode](https://leetcode.com/problems/valid-number/) | [youtubes](https://www.youtube.com/watch?v=-6H2UFV68RI)
+[leetcode](https://leetcode.com/problems/valid-number/) | [youtube](https://www.youtube.com/watch?v=-6H2UFV68RI)
 
 <!--
 ```
@@ -188,7 +188,7 @@ Hint: ???
 
 Print all braces combinations for a given value 'N' so that they are balanced.
 
-[leetcode](https://leetcode.com/problems/generate-parentheses/) | [youtubes](https://www.youtube.com/watch?v=s9fokUqJ76A)
+[leetcode](https://leetcode.com/problems/generate-parentheses/) | [youtube](https://www.youtube.com/watch?v=s9fokUqJ76A)
 
 ```
 Hint: Make a shared return array and count integers for opening and closing prenetheses count then recurse down to a base case related to the counts and n. Kinda remember it but might be missing something?
@@ -204,7 +204,7 @@ Find the minimum spanning tree of a connected, undirected graph with weighted ed
 
 [leetcode (multiples)](https://leetcode.com/tag/minimum-spanning-tree/) 
 
-[leetcode](https://www.youtube.com/watch?v=f7JOBJIC-NA)| [youtubes](https://www.youtube.com/watch?v=f7JOBJIC-NA)
+[leetcode](https://www.youtube.com/watch?v=f7JOBJIC-NA)| [youtube](https://www.youtube.com/watch?v=f7JOBJIC-NA)
 
 <!--
 ```
@@ -220,7 +220,7 @@ Hint: ???
 
 Least Recently Used (LRU) is a common caching strategy. It defines the policy to evict elements from the cache to make room for new elements when the cache is full, meaning it discards the least recently used items first.
 
-[leetcode](https://leetcode.com/problems/lru-cache/) | [youtubes](https://www.youtube.com/watch?v=7ABFKPK2hD4)
+[leetcode](https://leetcode.com/problems/lru-cache/) | [youtube](https://www.youtube.com/watch?v=7ABFKPK2hD4)
 
 ```
 Hint: Use a linked list representing a queue and a hashmap for looking up nodes.
@@ -234,7 +234,7 @@ Hint: Use a linked list representing a queue and a hashmap for looking up nodes.
 
 Given a sorted array of integers, return the low and high index of the given key. Return -1 if not found. The array length can be in the millions with many duplicates.
 
-[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [youtubes](https://www.youtube.com/watch?v=4sQL7R5ySUU)
+[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [youtube](https://www.youtube.com/watch?v=4sQL7R5ySUU)
 
 <!--
 ```
@@ -250,7 +250,7 @@ Hint: ???
 
 You are given an array (list) of interval pairs as input where each interval has a start and end timestamp. The input array is sorted by starting timestamps. You are required to merge overlapping intervals and return output array (list).
 
-[leetcode](https://leetcode.com/problems/merge-intervals/) | [youtubes](https://www.youtube.com/watch?v=44H3cEC2fFM)
+[leetcode](https://leetcode.com/problems/merge-intervals/) | [youtube](https://www.youtube.com/watch?v=44H3cEC2fFM)
 
 ```
 Hint: Use sort and a new return array.
