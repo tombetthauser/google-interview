@@ -130,6 +130,7 @@ Hint: ???
 ``` 
 -->
 
+---
 
 ### Find all Palindrome Substrings
 
@@ -161,7 +162,6 @@ Given an array, find the contiguous subarray with the largest sum.
 Hint: ???
 ```
 -->
-
 
 ---
 
@@ -240,6 +240,8 @@ Given a sorted array of integers, return the low and high index of the given key
 Hint: ???
 ```
 -->
+
+---
 
 ### Merge Overlapping Intervals
 
